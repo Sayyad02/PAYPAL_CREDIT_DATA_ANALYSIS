@@ -1,8 +1,8 @@
-# PayPal Credit DataOps
+# PAYPAL CREDIT DATA ANALYSIS
 
 ## Overview
 
-The `paypal_credit_dataops` project is designed to streamline the data operations (DataOps) for PayPal's credit data. The project focuses on handling data ingestion, processing, and analysis, with an emphasis on automation, scalability, and performance. The goal is to provide an efficient and reliable pipeline for managing credit-related data at scale.
+The `paypal_credit_data_analysis` project is designed to streamline the data operations (DataOps) for PayPal's credit data. The project focuses on handling data ingestion, processing, and analysis, with an emphasis on automation, scalability, and performance. The goal is to provide an efficient and reliable pipeline for managing credit-related data at scale.
 
 This project leverages Python and various data processing libraries to facilitate the extraction, transformation, and loading (ETL) of data from PayPal's credit data sources into a centralized system for further analysis and decision-making.
 
